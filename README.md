@@ -116,9 +116,3 @@ The model explains approximately **57% of the variance** in car prices, which is
 
 ---
 
-## 👨‍💻 Author
-
-**Debjit Das**  
-B.Tech CSE (AI & ML)  
-Machine Learning & Full-Stack Developer  
-India 🇮🇳
