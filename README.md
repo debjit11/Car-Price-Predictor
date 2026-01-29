@@ -115,7 +115,7 @@ The model explains approximately **57% of the variance** in car prices, which is
 ```
 
 ---
-## ✅ Conclusion
+## Conclusion
 
 This project demonstrates a **complete end-to-end machine learning workflow**, starting from raw data collection to model evaluation.  
 Despite working with **noisy, real-world data**, the Linear Regression model achieved a **reasonable R² score of ~0.57**, highlighting the importance of effective data preprocessing.
